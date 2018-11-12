@@ -21,6 +21,15 @@
     "illuminate/database": "^5.2",
     "illuminate/filesystem": "^5.2"
   },
+
+"extra": {
+    "laravel": {
+      "providers": [
+        "anlutro\LaravelSettings\ServiceProvider"
+      ]
+    }
+  }
+
   "require-dev": {
     "mockery/mockery": "0.9.*"
   },
