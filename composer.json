@@ -11,7 +11,7 @@
 
       "name": "Tim Marsh",
       "email": "tim.marsh@solverboard.com"
-    },
+    }
   ],
   "license": "MIT",
   "require": {
