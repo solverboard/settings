@@ -25,7 +25,7 @@
 "extra": {
     "laravel": {
       "providers": [
-        "Krucas\Settings\Providers\SettingsServiceProvider"
+        "Krucas\\Settings\\Providers\\SettingsServiceProvider"
       ]
     }
   }
