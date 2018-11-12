@@ -25,7 +25,7 @@
 "extra": {
     "laravel": {
       "providers": [
-        "anlutro\LaravelSettings\ServiceProvider"
+        "anlutro\\LaravelSettings\\ServiceProvider"
       ]
     }
   }
