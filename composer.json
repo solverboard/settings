@@ -1,12 +1,12 @@
 {
-  "name": "edvinaskrucas/settings",
+  "name": "solverboard/settings",
   "keywords": ["settings", "persistent settings", "laravel"],
   "description": "Persistent settings package for Laravel framework.",
   "authors": [
     {
       "name": "Edvinas Kručas",
       "email": "edv.krucas@gmail.com"
-    }
+    },
   ],
   "license": "MIT",
   "require": {
